@@ -1,7 +1,7 @@
 {
 	"name": "timer.js",
 	"repo": "Wizcorp/timer.js",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Manipulate time and bend it to your will",
 	"scripts": [
 		"index.js"

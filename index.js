@@ -54,4 +54,14 @@ Timer.prototype.interval = function (msecOrSec) {
 };
 
 
+Timer.prototype.msec = function () {
+	return this.translate(Date.now(), true);
+};
+
+
+Timer.prototype.sec = function () {
+	return this.translate(Date.now());
+};
+
+
 module.exports = Timer;
