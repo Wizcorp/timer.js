@@ -1,0 +1,29 @@
+{
+	"name": "wizcorp-timer.js",
+	"description": "Manipulate time and bend it to your will",
+	"version": "0.2.0",
+	"author": "Wizcorp, Inc. <info@wizcorp.jp>",
+	"maintainers": [
+		{ "name": "Ron Korving", "email": "rkorving@wizcorp.jp" },
+		{ "name": "Bjorn Stromberg", "email": "bstromberg@wizcorp.jp" }
+	],
+	"dependencies": {},
+	"devDependencies": {
+		"jshint": "*",
+		"mocha": "*"
+	},
+	"scripts": {
+		"test": "./node_modules/.bin/mocha test"
+	},
+	"bugs" : {
+		"url" : "http://github.com/Wizcorp/timer.js/issues"
+	},
+	"license": {
+		"type": "MIT",
+		"url": "https://github.com/Wizcorp/timer.js/raw/master/LICENSE"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Wizcorp/timer.js.git"
+	}
+}
