@@ -1,0 +1,8 @@
+{
+	"name": "timer.js",
+	"repo": "Wizcorp/timer.js",
+	"description": "Manipulate time and bend it to your will",
+	"scripts": [
+		"index.js"
+	]
+}
